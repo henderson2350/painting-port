@@ -1,0 +1,28 @@
+#content {
+    background-image: url(../../photos/background.jpg);
+    height: 100vh;
+}
+
+#text {
+    color:red;
+    font-size:200px;
+    
+}
+
+#linkid:hover {
+    color: rgb(196, 164, 189);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#linkid {
+    color: rgb(2, 27, 39);
+    font-size: 120px;
+    position: absolute;
+    top: 30%;
+    left: 15%;
+    right: 15%;
+    text-decoration: none;
+    font-family: 'Gluten', cursive;
+    text-shadow: 2px 2px white;
+}

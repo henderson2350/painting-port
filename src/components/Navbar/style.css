@@ -1,0 +1,13 @@
+header {
+    color: black;
+    margin: 20px;
+    font-family: 'Gluten', cursive;
+}
+
+nav a {
+    padding: 5px;
+    color: black;
+    text-decoration: none;
+    font-family: 'Comfortaa', cursive;
+
+}

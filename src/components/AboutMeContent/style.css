@@ -1,0 +1,13 @@
+#about-me-txt {
+    font-size: 20px;
+    padding-right: 300px;
+    padding-left: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: 'Comfortaa', cursive;
+}
+
+#photo-me {
+    width: 1000px;
+    height: 650px;
+}

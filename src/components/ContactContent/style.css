@@ -1,0 +1,15 @@
+#contact-content {
+    justify-content: center;
+}
+
+#contact-info p {
+    font-size: 40px;
+    font-family: 'Comfortaa', cursive;
+    margin: 0px;
+}
+
+#poppy-info {
+    font-size: 20px;
+    margin: 0px;
+    font-family: 'Comfortaa', cursive;
+}

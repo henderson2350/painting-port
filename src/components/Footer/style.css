@@ -1,0 +1,12 @@
+#footer-text {
+    color: black;
+    text-align: center;
+    bottom: 0px;
+    width: 98%;
+    margin: 20px;
+    padding-bottom: 10px;
+}
+
+div p {
+    margin: 0px;
+}
